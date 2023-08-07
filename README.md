@@ -39,11 +39,6 @@
 
  <a href="https://github.com/adewgn/github-readme-stats"><img width="390" align="center" src="https://github-readme-stats.vercel.app/api?username=adewgn&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="Akash's github stats" /></a> <a href="https://github.com/adewgn/github-readme-stats"><img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adewgn&layout=compact&theme=gruvbox&hide_border=true" /></a> 
 
-
-#
-
-# 🐍 My Contributions 
-
 #
 
 # 📊 Top Repositories:
@@ -70,6 +65,10 @@
 <a href="https://www.topcoder.com/members/adewgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="adewgn" height="30" width="40" /></a>
 
 </p>
+
+#
+
+# <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=500&vCenter=true&width=800&color=00ad7c&lines=THANKS+FOR+STOPPING+BY+:];ALWAYS+READY+TO+COLLAB+>_<;)<p>
 
 
 
