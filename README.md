@@ -1,8 +1,7 @@
 [![MasterHead](GreenBanner.png)](adewgn.com)
+ 
 
-# 
-
- # <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=500&vCenter=true&width=800&color=00ad7c&lines=HI,+I+AM+AKASH+DEWANGAN;WELCOME+TO+MY+GITHUB+PROFILE;MAKE+SURE+TO+FOLLOW+ME;)<p>
+ # <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=500&vCenter=true&width=800&color=00ad7c&lines=HI,+I+AM+AKASH+DEWANGAN;WELCOME+TO+MY+GITHUB+PROFILE;MAKE+SURE+TO+FOLLOW+ME!!!;)<p>
 
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adewgn" alt="adewgn" /></a> </p>-->
@@ -17,8 +16,7 @@
 # 👨‍💻 About Me:
 
 **`I am a results-driven Data Science student with a strong aptitude for problem solving and an admiration of technology. I have practical expertise in software development, data structures, and algorithms from coursework and personal projects, and I am proficient in Python, Java, and C++. I am actively looking for internships and collaborative opportunities to put my abilities to use, learn from seasoned professionals, and contribute to cutting-edge software solutions. Let's connect and build genuine professional ties for mutual success and progress.`**
-
-# 
+ 
 
 <p align="center">
       <a href="https://github.com/adewgn?tab=followers">
@@ -40,6 +38,13 @@
 # 📊 Github Stats:
 
  <a href="https://github.com/adewgn/github-readme-stats"><img width="390" align="center" src="https://github-readme-stats.vercel.app/api?username=adewgn&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="Akash's github stats" /></a> <a href="https://github.com/adewgn/github-readme-stats"><img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adewgn&layout=compact&theme=gruvbox&hide_border=true" /></a> 
+
+
+#
+
+# 🐍 Watch my contributions get eaten by snake 
+
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/adewgn/adewgn/output/github-contribution-grid-snake.svg" />
 
 #
 
@@ -67,5 +72,9 @@
 <a href="https://www.topcoder.com/members/adewgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="adewgn" height="30" width="40" /></a>
 
 </p>
+
+#
+
+# <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=500&vCenter=true&width=800&color=00ad7c&lines=THANKS+FOR+YOUR+TIME!;I'M+ALWAYS+DOWN+TO+COLLAB>ᴗ<;)<p>
 
 
