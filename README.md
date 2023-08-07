@@ -38,7 +38,7 @@
 
  <a href="https://github.com/adewgn/github-readme-stats"><img width="390" align="center" src="https://github-readme-stats.vercel.app/api?username=adewgn&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="Akash's github stats" /></a> <a href="https://github.com/adewgn/github-readme-stats"><img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adewgn&layout=compact&theme=gruvbox&hide_border=true" /></a> 
 
-#
+<!--#
 
 # 📊 Top Repositories:
 
@@ -48,7 +48,7 @@
 <a href="https://github.com/adewgn/Streamyard_Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adewgn&repo=Streamyard_Clone&theme=gruvbox" />
 </a>
-
+-->
 #
 
 # 📺 Connect with me:
