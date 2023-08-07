@@ -44,7 +44,7 @@
 
 # 🐍 My Contributions 
 
- ![snake gif](https://github.com/adewgn/adewgn/blob/output/github-contribution-grid-snake.gif)
+ ![snake gif](https://github.com/adewgn/adewgn/blob/output/github-contribution-grid-snake.svg)
 
 #
 
