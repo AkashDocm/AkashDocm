@@ -42,9 +42,9 @@
 
 #
 
-# 🐍 Watch my contributions get eaten by snake 
+# 🐍 My Contributions 
 
- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/adewgn/adewgn/output/github-contribution-grid-snake.svg" />
+ ![snake gif](https://github.com/adewgn/adewgn/blob/output/github-contribution-grid-snake.gif)
 
 #
 
@@ -73,8 +73,5 @@
 
 </p>
 
-#
-
-# <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=500&vCenter=true&width=800&color=00ad7c&lines=THANKS+FOR+YOUR+TIME!;I'M+ALWAYS+DOWN+TO+COLLAB>ᴗ<;)<p>
 
 
