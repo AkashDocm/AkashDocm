@@ -1,6 +1,6 @@
-[![MasterHead](GreenBanner.png)](adewgn.com)
+[![MasterHead](1.png)](adewgn.com)
  
-# <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=500&vCenter=true&width=800&color=00ad7c&lines=HI,+I+AM+AKASH+DEWANGAN;WELCOME+TO+MY+GITHUB+PROFILE;MAKE+SURE+TO+FOLLOW+ME!!!;)<p>
+# <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=500&vCenter=true&width=800&color=00FF6C&lines=HI,+I+AM+AKASH+DEWANGAN;WELCOME+TO+MY+GITHUB+PROFILE;MAKE+SURE+TO+FOLLOW+ME!!!;)<p>
 
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adewgn" alt="adewgn" /></a> </p>-->
@@ -13,7 +13,7 @@
 <details>
 <summary><h2>👨‍💻 ABOUT ME</h2></summary>
 
-**`I am a results-driven Data Science student with a strong aptitude for problem solving and an admiration of technology. I have practical expertise in software development, data structures, and algorithms from coursework and personal projects, and I am proficient in Python, Java, and C++. I am actively looking for internships and collaborative opportunities to put my abilities to use, learn from seasoned professionals, and contribute to cutting-edge software solutions. Let's connect and build genuine professional ties for mutual success and progress.`**
+I am a results-driven Data Science student with a strong aptitude for problem solving and an admiration of technology. I have practical expertise in software development, data structures, and algorithms from coursework and personal projects, and I am proficient in Python, Java, and C++. I am actively looking for internships and collaborative opportunities to put my abilities to use, learn from seasoned professionals, and contribute to cutting-edge software solutions. Let's connect and build genuine professional ties for mutual success and progress.
  
 
 <p align="center">
@@ -24,7 +24,7 @@
    </p>
 <br>
 
-**`😃 CONNECT WITH ME`**
+😃 CONNECT WITH ME
 <p align="center">
 <a href="https://twitter.com/adewgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adewgn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adewgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adewgn" height="30" width="40" /></a>
@@ -40,40 +40,41 @@
 
 </details>
 
+---
 
 <details>
 <summary><h2>💻 TECH STACK</h2></summary>
- <h3 align="center">👨‍💻 PROGRAMMING AND MARKUP LANGUAGES</h3>
+ <h3>👨‍💻 Programming and Markup Languages</h3>
 
-  <p align="center">
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-      <!--<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aceylon"><img alt="Ceylon" src="https://custom-icon-badges.demolab.com/badge/Ceylon-E39842.svg?logo=ceylon&logoColor=white"></a>-->
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ags"><img alt="Google Apps Script" src="https://custom-icon-badges.demolab.com/badge/Google%20Apps%20Script-02569B.svg?logo=gs&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-      <!--<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>-->
-      <!--<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aprolog"><img alt="Prolog" src="https://custom-icon-badges.demolab.com/badge/Prolog-E61B23.svg?logo=swi-prolog&logoColor=white"></a>-->
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Arst"><img alt="Restructured Text" src="https://img.shields.io/badge/Restructured Text-3a4148.svg?logo=readthedocs&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+  <p>
+      <a href="#"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
+      <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+      <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+      <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+      <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+      <!--<a href="#"><img alt="Ceylon" src="https://custom-icon-badges.demolab.com/badge/Ceylon-E39842.svg?logo=ceylon&logoColor=white"></a>-->
+      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+      <a href="#"><img alt="Google Apps Script" src="https://custom-icon-badges.demolab.com/badge/Google%20Apps%20Script-02569B.svg?logo=gs&logoColor=white"></a>
+      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+      <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
+      <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+      <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+      <!--<a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>-->
+      <!--<a href="#"><img alt="Prolog" src="https://custom-icon-badges.demolab.com/badge/Prolog-E61B23.svg?logo=swi-prolog&logoColor=white"></a>-->
+      <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="#r"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
+      <a href="#"><img alt="Restructured Text" src="https://img.shields.io/badge/Restructured Text-3a4148.svg?logo=readthedocs&logoColor=white"></a>
+      <a href="#"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
+      <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      <a href="#"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
+      <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   </p>
 
-  <h3 align="center">🧰 FRAMEWORKS AND LIBRARIES</h3>
+  <h3>🧰 Frameworks and Libraries</h3>
 
-  <p align="center">
+  <p>
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
       <a href="#"><img alt="BlissfulJS" src="https://custom-icon-badges.demolab.com/badge/Bliss.js-3dacc2.svg?logo=bliss&logoColor=white"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
@@ -101,9 +102,9 @@
       <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
   </p>
 
-  <h3 align="center">🗄️ DATABASES AND CLOUD HOSTING</h3>
+  <h3>🗄️ Databases and Cloud Hosting</h3>
 
-  <p align="center">
+  <p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <!--<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>-->
       <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
@@ -117,9 +118,9 @@
       <!--<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>-->
   </p>
 
-  <h3 align="center">💻 SOFTWARE AND TOOLS</h3>
+  <h3>💻 Softwares and Tools</h3>
 
-  <p align="center">
+  <p>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
@@ -149,56 +150,46 @@
 <details>
 <summary><h2>GITHUB STATS </h2></summary>
 
-  <h3 align="center">🔥 STREAK STATS</h3>
+  <h3 align="left">🔥 Streak Stats</h3>
 
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p align="center">
-    <a href="https://github.com/adewgn/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="adewgn's streak" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
+  <p align="left">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="adewgn's streak" src="https://streak-stats.demolab.com/?user=adewgn&theme=github-dark&hide_border=true"/>
     </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="adewgn's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=adewgn&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=090E14&title_color=00FF6C&icon_color=2874A6" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="adewgn's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=adewgn&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=090E14&title_color=00FF6C&icon_color=2ECC71&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="adewgn's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=adewgn&bg_color=090E14&color=00FF6C&line=2874A6&point=FFFFFF&hide_border=true" /></a>
 
 </details>
 
-
+---
 
 <details>
-<summary><h2>📕 Top Repositories</h2></summary>
+<summary><h2>📕 TOP REPOSITORIES</h2></summary>
 
-<p align="left">
-    <a href="https://github.com/pallets/flask"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
-    <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
-    <a href="https://github.com/simple-icons/simple-icons"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="simple-icons"></a>
-    <a href="https://github.com/Rapptz/discord.py"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rapptz&repo=discord.py&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="discord.py"></a>
-    <a href="https://github.com/o2sh/onefetch"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=o2sh&repo=onefetch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="onefetch"></a>
-    <a href="https://github.com/scrapinghub/dateparser"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=scrapinghub&repo=dateparser&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="dateparser"></a>
-    <a href="https://github.com/python-babel/babel"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=python-babel&repo=babel&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="babel"></a>
-    <a href="https://github.com/nextcord/nextcord"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=nextcord&repo=nextcord&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="nextcord"></a>
-    <a href="https://github.com/PyCQA/autoflake"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=PyCQA&repo=autoflake&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="autoflake"></a>
+ <p align="left">
+    <a href="https://github.com/adewgn/AI_Image_Generation_Application"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adewgn&repo=AI_Image_Generation_Application&theme=react&bg_color=090E14&title_color=00FF6C&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/adewgn/Streamyard_Clone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adewgn&repo=Streamyard_Clone&theme=react&bg_color=090E14&title_color=00FF6C&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/adewgn/Twitter_Clone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=adewgn&repo=Twitter_Clone&theme=react&bg_color=090E14&title_color=00FF6C&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/adewgn/Norse"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adewgn&repo=Norse&theme=react&bg_color=090E14&title_color=00FF6C&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
+    <a href="https://github.com/adewgn/Checkup_Clone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adewgn&repo=Checkup_Clone&theme=react&bg_color=090E14&title_color=00FF6C&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
+    <a href="https://github.com/adewgn/Connect"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adewgn&repo=Connect&theme=react&bg_color=090E14&title_color=00FF6C&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
   </p>
 
-  <p align="left">
-    <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
-  </p>
-
+  <a href="https://github.com/adewgn?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-090E14?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
+<br>
 
-# <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=500&vCenter=true&width=800&color=00ad7c&lines=THANKS+FOR+STOPPING+BY+:];ALWAYS+READY+TO+COLLAB+>_<;)<p>
-
-
-
+[![MasterHead](2.png)](adewgn.com)
