@@ -163,8 +163,8 @@ CONNECT WITH ME 😃
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="adewgn's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=adewgn&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=090E14&title_color=00FF6C&icon_color=2874A6" height="170px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="adewgn's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=adewgn&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=090E14&title_color=00FF6C&icon_color=2ECC71&hide=Jupyter%20Notebook,Roff" height="170px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="adewgn's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=adewgn&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=090E14&title_color=00FF6C&icon_color=2874A6" height="150px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="adewgn's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=adewgn&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=090E14&title_color=00FF6C&icon_color=2ECC71&hide=Jupyter%20Notebook,Roff" height="150px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -191,6 +191,6 @@ CONNECT WITH ME 😃
   <a href="https://github.com/adewgn?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-090E14?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
-<br>
+---
 
 [![MasterHead](2.png)](adewgn.com)
