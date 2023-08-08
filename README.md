@@ -39,10 +39,9 @@
  <a href="https://github.com/adewgn/github-readme-stats"><img width="390" align="center" src="https://github-readme-stats.vercel.app/api?username=adewgn&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="Akash's github stats" /></a> <a href="https://github.com/adewgn/github-readme-stats"><img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adewgn&layout=compact&theme=gruvbox&hide_border=true" /></a> 
 
 #
-
-# 📊 Top Repositories:
-
-<a href="https://github.com/adewgn/RewardBased_Crowdfunding_Platform">
+<details>
+  <summary><h1>📕 Top Repositories</h1></summary>
+  <a href="https://github.com/adewgn/RewardBased_Crowdfunding_Platform">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adewgn&repo=RewardBased_Crowdfunding_Platform&theme=gruvbox" />
 </a>
 <a href="https://github.com/adewgn/Streamyard_Clone">
@@ -54,11 +53,12 @@
 <a href="https://github.com/adewgn/Uber_Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adewgn&repo=Uber_Clone&theme=gruvbox" />
 </a>
-
+</details>
 
 #
 
-# 📺 Connect with me:
+# 📺 Connect with me: 
+ 
 <p align="left">
 <a href="https://twitter.com/adewgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adewgn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adewgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adewgn" height="30" width="40" /></a>
