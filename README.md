@@ -1,6 +1,6 @@
 [![MasterHead](1.png)](adewgn.com)
  
-# <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=500&vCenter=true&width=800&color=00FF6C&lines=HI,+I+AM+AKASH+DEWANGAN;WELCOME+TO+MY+GITHUB+PROFILE;MAKE+SURE+TO+FOLLOW+ME!!!;)<p>
+# <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=500&vCenter=true&width=800&color=00FF6C&lines=HI,+I+AM+AKASH+DEWANGAN+:];WELCOME+TO+MY+GITHUB+PROFILE;MAKE+SURE+TO+FOLLOW+>_<;)<p>
 
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adewgn" alt="adewgn" /></a> </p>-->
@@ -24,7 +24,7 @@ I am a results-driven Data Science student with a strong aptitude for problem 
    </p>
 <br>
 
-😃 CONNECT WITH ME
+CONNECT WITH ME 😃 
 <p align="center">
 <a href="https://twitter.com/adewgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adewgn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adewgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adewgn" height="30" width="40" /></a>
@@ -43,7 +43,7 @@ I am a results-driven Data Science student with a strong aptitude for problem 
 ---
 
 <details>
-<summary><h2>💻 TECH STACK</h2></summary>
+<summary><h2>📡 TECH STACK</h2></summary>
  <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
@@ -146,9 +146,10 @@ I am a results-driven Data Science student with a strong aptitude for problem 
   </p>
 </details>
 
+---
 
 <details>
-<summary><h2>GITHUB STATS </h2></summary>
+<summary><h2>📊 GITHUB STATS </h2></summary>
 
   <h3 align="left">🔥 Streak Stats</h3>
 
@@ -162,8 +163,8 @@ I am a results-driven Data Science student with a strong aptitude for problem 
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="adewgn's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=adewgn&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=090E14&title_color=00FF6C&icon_color=2874A6" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="adewgn's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=adewgn&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=090E14&title_color=00FF6C&icon_color=2ECC71&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="adewgn's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=adewgn&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=090E14&title_color=00FF6C&icon_color=2874A6" height="170px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="adewgn's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=adewgn&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=090E14&title_color=00FF6C&icon_color=2ECC71&hide=Jupyter%20Notebook,Roff" height="170px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
