@@ -10,7 +10,7 @@
 
 <!--<p align="left"> <a href="https://twitter.com/adewgn" target="blank"><img src="https://img.shields.io/twitter/follow/adewgn?logo=twitter&style=for-the-badge" alt="adewgn" /></a> </p>-->
 
-<details>
+<details open>
 <summary><h2>👨‍💻 ABOUT ME</h2></summary>
 
 I am a results-driven Data Science student with a strong aptitude for problem solving and an admiration of technology. I have practical expertise in software development, data structures, and algorithms from coursework and personal projects, and I am proficient in Python, Java, and C++. I am actively looking for internships and collaborative opportunities to put my abilities to use, learn from seasoned professionals, and contribute to cutting-edge software solutions. Let's connect and build genuine professional ties for mutual success and progress.
