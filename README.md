@@ -1,4 +1,4 @@
-[![MasterHead](akash.png)](adewgn.com)
+[![MasterHead](akash.png)](www.adewgn.com)
  
 # <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=500&vCenter=true&width=800&color=00FF6C&lines=HI,+I+AM+AKASH+DEWANGAN+:];WELCOME+TO+MY+GITHUB+PROFILE;MAKE+SURE+TO+FOLLOW+>_<;)<p>
 
@@ -154,7 +154,7 @@ CONNECT WITH ME 😃
   <h3 align="left">🔥 Streak Stats</h3>
 
   <p align="left">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <a href="#">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="adewgn's streak" src="https://streak-stats.demolab.com/?user=adewgn&theme=github-dark&hide_border=true"/>
     </a>
   </p>
@@ -163,14 +163,14 @@ CONNECT WITH ME 😃
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="adewgn's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=adewgn&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=090E14&title_color=00FF6C&icon_color=2874A6" height="150px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="adewgn's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=adewgn&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=090E14&title_color=00FF6C&icon_color=2ECC71&hide=Jupyter%20Notebook,Roff" height="150px"/></a>
+  <a href="#"><img alt="adewgn's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=adewgn&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=090E14&title_color=00FF6C&icon_color=2874A6" height="150px"/></a>
+  <a href="#"><img alt="adewgn's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=adewgn&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=090E14&title_color=00FF6C&icon_color=2ECC71&hide=Jupyter%20Notebook,Roff" height="150px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="adewgn's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=adewgn&bg_color=090E14&color=00FF6C&line=2874A6&point=FFFFFF&hide_border=true" /></a>
+  <a href="#"><img alt="adewgn's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=adewgn&bg_color=090E14&color=00FF6C&line=2874A6&point=FFFFFF&hide_border=true" /></a>
 
 </details>
 
@@ -193,4 +193,4 @@ CONNECT WITH ME 😃
 
 ---
 
-[![MasterHead](thankyou.png)](adewgn.com)
+[![MasterHead](thankyou.png)](www.adewgn.com)
