@@ -1,4 +1,4 @@
-[![MasterHead](1.png)](adewgn.com)
+[![MasterHead](akash.png)](adewgn.com)
  
 # <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=500&vCenter=true&width=800&color=00FF6C&lines=HI,+I+AM+AKASH+DEWANGAN+:];WELCOME+TO+MY+GITHUB+PROFILE;MAKE+SURE+TO+FOLLOW+>_<;)<p>
 
@@ -13,7 +13,7 @@
 <details open>
 <summary><h2>👨‍💻 ABOUT ME</h2></summary>
 
-I am a results-driven Data Science student with a strong aptitude for problem solving and an admiration of technology. I have practical expertise in software development, data structures, and algorithms from coursework and personal projects, and I am proficient in Python, Java, and C++. I am actively looking for internships and collaborative opportunities to put my abilities to use, learn from seasoned professionals, and contribute to cutting-edge software solutions. Let's connect and build genuine professional ties for mutual success and progress.
+I am a results-driven Data Science student with a strong aptitude for problem solving and an admiration of technology. I have practical expertise in software development, data structures, and algorithms from coursework and personal projects, and I am proficient in multiple programming languages and frameworks. I am actively looking for internships and collaborative opportunities to put my abilities to use, learn from seasoned professionals, and contribute to cutting-edge software solutions. Let's connect and build genuine professional ties for mutual success and progress.
  
 
 <p align="center">
@@ -28,13 +28,13 @@ CONNECT WITH ME 😃
 <p align="center">
 <a href="https://twitter.com/adewgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adewgn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adewgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adewgn" height="30" width="40" /></a>
-<a href="https://fb.com/akashvcxii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akashvcxii" height="30" width="40" /></a>
-<a href="https://instagram.com/akashvcxii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akashvcxii" height="30" width="40" /></a>
+<!--<a href="https://fb.com/akashvcxii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akashvcxii" height="30" width="40" /></a>
+<a href="https://instagram.com/akashvcxii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akashvcxii" height="30" width="40" /></a>-->
 <a href="https://codepen.io/adewgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="adewgn" height="30" width="40" /></a>
-<a href="https://kaggle.com/adewgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adewgn" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/adewgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="adewgn" height="30" width="40" /></a>
+<!--<a href="https://kaggle.com/adewgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adewgn" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/adewgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="adewgn" height="30" width="40" /></a>-->
 <a href="https://www.leetcode.com/adewgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adewgn" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/adewgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="adewgn" height="30" width="40" /></a>
+<!--<a href="https://www.topcoder.com/members/adewgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="adewgn" height="30" width="40" /></a>-->
 
 </p>
 
@@ -181,11 +181,11 @@ CONNECT WITH ME 😃
 
  <p align="left">
     <a href="https://github.com/adewgn/AI_Image_Generation_Application"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adewgn&repo=AI_Image_Generation_Application&theme=react&bg_color=090E14&title_color=00FF6C&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/adewgn/Streamyard_Clone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adewgn&repo=Streamyard_Clone&theme=react&bg_color=090E14&title_color=00FF6C&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/adewgn/Twitter_Clone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=adewgn&repo=Twitter_Clone&theme=react&bg_color=090E14&title_color=00FF6C&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-    <a href="https://github.com/adewgn/Norse"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adewgn&repo=Norse&theme=react&bg_color=090E14&title_color=00FF6C&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
-    <a href="https://github.com/adewgn/Checkup_Clone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adewgn&repo=Checkup_Clone&theme=react&bg_color=090E14&title_color=00FF6C&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
-    <a href="https://github.com/adewgn/Connect"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adewgn&repo=Connect&theme=react&bg_color=090E14&title_color=00FF6C&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
+    <a href="https://github.com/adewgn/OpenSea_Clone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adewgn&repo=OpenSea_Clone&theme=react&bg_color=090E14&title_color=00FF6C&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
+    <a href="https://github.com/adewgn/ChatBot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adewgn&repo=ChatBot&theme=react&bg_color=090E14&title_color=00FF6C&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
+    <a href="https://github.com/adewgn/Netflix_Clone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adewgn&repo=Netflix_Clone&theme=react&bg_color=090E14&title_color=00FF6C&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
+    <a href="https://github.com/adewgn/LeetCode_Clone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adewgn&repo=LeetCode_Clone&theme=react&bg_color=090E14&title_color=00FF6C&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
   </p>
 
   <a href="https://github.com/adewgn?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-090E14?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -193,4 +193,4 @@ CONNECT WITH ME 😃
 
 ---
 
-[![MasterHead](2.png)](adewgn.com)
+[![MasterHead](thankyou.png)](adewgn.com)
