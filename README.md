@@ -1,4 +1,4 @@
-[![MasterHead](akash.png)](www.adewgn.com)
+[![MasterHead](akash.png)](adewgn.github.io)
  
 # <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=500&vCenter=true&width=800&color=00FF6C&lines=HI,+I+AM+AKASH+DEWANGAN+:];WELCOME+TO+MY+GITHUB+PROFILE;)<p>
 
