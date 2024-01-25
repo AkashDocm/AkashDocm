@@ -125,12 +125,12 @@
 
  <p align="center">
     <a href="https://github.com/adewgn/AI_Image_Generation_Application"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adewgn&repo=AI_Image_Generation_Application&theme=react&bg_color=090E14&title_color=00FF6C&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/adewgn/Twitter_Clone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=adewgn&repo=Twitter_Clone&theme=react&bg_color=090E14&title_color=00FF6C&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-    <a href="https://github.com/adewgn/OpenSea_Clone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adewgn&repo=OpenSea_Clone&theme=react&bg_color=090E14&title_color=00FF6C&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
+    <a href="https://github.com/adewgn/Threads_Clone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=adewgn&repo=Threads_Clone&theme=react&bg_color=090E14&title_color=00FF6C&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/adewgn/Web3_Crowdfunding_Platform"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adewgn&repo=Web3_Crowdfunding_Platform&theme=react&bg_color=090E14&title_color=00FF6C&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
     <br>
-    <a href="https://github.com/adewgn/ChatBot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adewgn&repo=ChatBot&theme=react&bg_color=090E14&title_color=00FF6C&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
-    <a href="https://github.com/adewgn/Netflix_Clone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adewgn&repo=Netflix_Clone&theme=react&bg_color=090E14&title_color=00FF6C&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
-    <a href="https://github.com/adewgn/TravELITE"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adewgn&repo=TravELITE&theme=react&bg_color=090E14&title_color=00FF6C&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
+    <a href="https://github.com/adewgn/CarShowcase"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adewgn&repo=CarShowcase&theme=react&bg_color=090E14&title_color=00FF6C&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
+    <a href="https://github.com/adewgn/Cryptocurrency_Exchange_Platform"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adewgn&repo=Cryptocurrency_Exchange_Platform&theme=react&bg_color=090E14&title_color=00FF6C&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
+    <a href="https://github.com/adewgn/RealTime_Dashboard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adewgn&repo=RealTime_Dashboard&theme=react&bg_color=090E14&title_color=00FF6C&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
   </p>
 
   <p align="center">
