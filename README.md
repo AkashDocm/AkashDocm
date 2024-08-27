@@ -17,7 +17,7 @@
 <details open>
 <summary><h2>👨‍💻 ABOUT ME</h2></summary>
 
-<p align="justify" >Data Science student with a strong foundation in software development, data structures, and algorithms. Demonstrated proficiency in multiple programming languages and frameworks through both academic coursework and personal projects. Adept at leveraging technical skills to tackle complex problems and drive innovative solutions. Committed to advancing my expertise and contributing effectively to data-driven projects and teams.</p>
+<p align="justify" >Data-driven problem solver with a passion for coding, chess, and avoiding the dreaded 'out of memory' error. I'm a full-stack developer who's currently trying to convince my neural network that it's not actually sentient (yet). Beyond my technical skills, I'm a dedicated open-source contributor and a competitive chess enthusiast who's always on the lookout for a worthy opponent. Let's connect and build something awesome together – or at least something that doesn't crash.</p>
  
 
 <p align="center">
