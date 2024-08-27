@@ -1,6 +1,42 @@
-[<img src="banner.gif" width="100%">]()
+[<img src="gunshoot.gif" width="100%">]()
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jersey+10&display=swap" rel="stylesheet">
+
+<style>
+    p {
+      font-family: 'Jersey 10', sans-serif;
+      font-size: 20px;
+      font-weight: 100;
+    }
+    h2 {
+      font-family: 'Jersey 10', sans-serif;
+      font-size: 36px; /* Adjust the font size to your preference */
+      font-weight: 200;
+    }
+    h3 {
+      font-family: 'Jersey 10', sans-serif;
+      font-size: 30px; /* Font size for h3 */
+      font-weight: 200; /* Lighter font weight */
+    }
+    h4 {
+      font-family: 'Jersey 10', sans-serif;
+      font-size: 24px; /* Font size for h4 */
+      font-weight: 200; /* Lighter font weight */
+    }
+    a {
+      font-family: 'Jersey 10', sans-serif;
+      text-decoration: none; /* Optional: Remove underline from the link */     
+    }
+    img {
+      padding-right: 3px; /* Add space to the right of each image */
+    }
+  </style>
  
-# <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=500&vCenter=true&width=800&color=ffa800&lines=HI,+I+AM+AKASH+DEWANGAN+:];WELCOME+TO+MY+GITHUB+PROFILE;)<p>
+<br>
+
+# <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=54&pause=400&vCenter=true&width=600&color=0096FF&lines=HI,+I+AM+AKASH+DEWANGAN+:];WELCOME+TO+MY+GITHUB+ACCOUNT;)<p>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adewgn" alt="adewgn" /></a> </p>-->
 
@@ -12,7 +48,7 @@
 <details open>
 <summary><h2>👨‍💻 ABOUT ME</h2></summary>
 
-<p align="justify">Results-driven Data Science student with a strong aptitude for problem solving and an admiration of technology. I have practical expertise in software development, data structures, and algorithms from coursework and personal projects, and I am proficient in multiple programming languages and frameworks.</p>
+<p align="justify" >Data Science student with a solid foundation in software development, data structures, and algorithms. Adept at problem-solving and skilled in multiple programming languages and frameworks.</p>
  
 
 <p align="center">
@@ -90,10 +126,10 @@
 <details>
 <summary><h2>📊 GITHUB STATS </h2></summary>
 
-  <h3 align="left">🔥 Streak Stats</h3>
+  <h3 align="left">🌊 Streak Stats</h3>
 
   <p align="center">
-    <a href="#"><img src="https://streak-stats.demolab.com?user=adewgn&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adewgn&theme=holi-theme&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&" alt="GitHub Streak" /></a>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
@@ -101,8 +137,8 @@
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
   <p align="center">
-    <a href="#"><img alt="adewgn's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=adewgn&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=151515&title_color=ffa800&icon_color=2874A6" height="150px"/></a>
-    <a href="#"><img alt="adewgn's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=adewgn&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=151515&title_color=ffa800&icon_color=2ECC71&hide=Jupyter%20Notebook,Roff" height="150px"/></a>
+    <a href="#"><img alt="adewgn's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=adewgn&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=020214&title_color=d6e7ff&icon_color=2874A6" height="150px"/></a>
+    <a href="#"><img alt="adewgn's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=adewgn&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=020214&title_color=d6e7ff&icon_color=2ECC71&hide=Jupyter%20Notebook,Roff" height="150px"/></a>
   </p>
 
   <br/>
@@ -111,7 +147,7 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br>
   <br>
-    <a href="#"><img alt="adewgn's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=adewgn&bg_color=151515&color=ffa800&line=2874A6&point=FFFFFF&hide_border=false" /></a>
+    <a href="#"><img alt="adewgn's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=adewgn&bg_color=020214&color=d6e7ff&line=d6e7ff&point=FFFFFF&hide_border=true" /></a>
   </p>
 
 </details>
@@ -120,4 +156,4 @@
 <br>
 <br>
 
-# <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=500&vCenter=true&width=800&color=ffa800&lines=THANK+YOU+FOR+STOPPING+BY;MAKE+SURE+TO+LEAVE+A+STAR+:];)<p>
+# <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=54&pause=400&vCenter=true&width=600&color=0096FF&lines=THANK+YOU+FOR+STOPPING+BY;MAKE+SURE+TO+LEAVE+A+STAR+:];)<p>
