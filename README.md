@@ -3,36 +3,6 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Jersey+10&display=swap" rel="stylesheet">
-
-<style>
-    p {
-      font-family: 'Jersey 10', sans-serif;
-      font-size: 20px;
-      font-weight: 100;
-    }
-    h2 {
-      font-family: 'Jersey 10', sans-serif;
-      font-size: 36px; /* Adjust the font size to your preference */
-      font-weight: 200;
-    }
-    h3 {
-      font-family: 'Jersey 10', sans-serif;
-      font-size: 30px; /* Font size for h3 */
-      font-weight: 200; /* Lighter font weight */
-    }
-    h4 {
-      font-family: 'Jersey 10', sans-serif;
-      font-size: 24px; /* Font size for h4 */
-      font-weight: 200; /* Lighter font weight */
-    }
-    a {
-      font-family: 'Jersey 10', sans-serif;
-      text-decoration: none; /* Optional: Remove underline from the link */     
-    }
-    img {
-      padding-right: 3px; /* Add space to the right of each image */
-    }
-  </style>
  
 <br>
 
