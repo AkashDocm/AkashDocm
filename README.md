@@ -1,11 +1,11 @@
-[<img src=" coffee.gif" width="100%">]()
+[<img src="coffee.gif" width="100%">]()
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Jersey+10&display=swap" rel="stylesheet">
  
 
-# <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=54&pause=400&vCenter=true&width=600&color=0096FF&lines=HI,+I+AM+AKASH+DEWANGAN+:];WELCOME+TO+MY+GITHUB+ACCOUNT;)<p>
+# <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=60&pause=400&vCenter=true&width=1000&color=0096FF&lines=HI,+I+AM+AKASH+DEWANGAN+:];WELCOME+TO+MY+GITHUB+ACCOUNT+>_<;)<p>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adewgn" alt="adewgn" /></a> </p>-->
 
@@ -125,4 +125,4 @@
 <br>
 <br>
 
-# <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=54&pause=400&vCenter=true&width=600&color=0096FF&lines=THANK+YOU+FOR+STOPPING+BY;MAKE+SURE+TO+LEAVE+A+STAR+:];)<p>
+# <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=60&pause=400&vCenter=true&width=1000&color=0096FF&lines=THANK+YOU+FOR+STOPPING+BY+>_<;MAKE+SURE+TO+LEAVE+A+STAR+:];)<p>
