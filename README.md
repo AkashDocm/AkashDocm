@@ -1,10 +1,9 @@
-[<img src="gunshoot.gif" width="100%">]()
+[<img src="snow.gif" width="100%">]()
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Jersey+10&display=swap" rel="stylesheet">
  
-<br>
 
 # <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=54&pause=400&vCenter=true&width=600&color=0096FF&lines=HI,+I+AM+AKASH+DEWANGAN+:];WELCOME+TO+MY+GITHUB+ACCOUNT;)<p>
 
@@ -18,7 +17,7 @@
 <details open>
 <summary><h2>👨‍💻 ABOUT ME</h2></summary>
 
-<p align="justify" >Data Science student with a solid foundation in software development, data structures, and algorithms. Adept at problem-solving and skilled in multiple programming languages and frameworks.</p>
+<p align="justify" >Data Science student with a strong foundation in software development, data structures, and algorithms. Demonstrated proficiency in multiple programming languages and frameworks through both academic coursework and personal projects. Adept at leveraging technical skills to tackle complex problems and drive innovative solutions. Committed to advancing my expertise and contributing effectively to data-driven projects and teams.</p>
  
 
 <p align="center">
