@@ -40,7 +40,7 @@
 <a href="https://codepen.io/adewgn" target="blank"><img align="center" src="https://skillicons.dev/icons?i=codepen" alt="adewgn"/></a>
 
 </p>
-
+<!--
 <br>
 
 <h4>YOU CAN ALSO FIND ME ON:</h4>    
@@ -50,7 +50,7 @@
 <a href="https://www.leetcode.com/adewgn" target="blank"><img align="center" width="50px" src="img/leetcode.webp" alt="adewgn"/></a>
 <a href="https://www.topcoder.com/members/adewgn" target="blank"><img align="center" src="img/topcoder.webp" width="50px" alt="adewgn"/></a>
 </p>
-
+-->
 </details>
 
 ---
