@@ -26,23 +26,24 @@
       <a href="https://github.com/adewgn?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/adewgn?color=236ad3&style=for-the-badge&labelColor=1155ba&logo=star"/></a>
    </p>
-<!--<br>
-
+<!--  
+<br>
+<!--   
 <h4> CONNECT WITH ME :
 <br>
 <br>
 <p align="center">
 <a href="https://twitter.com/AkashDewgn" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="adewgn"/></a>
 <a href="https://linkedin.com/in/adewgn" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="adewgn"/></a>
-<!--<a href="https://dev.to/adewgn" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="adewgn"/></a>-->
+<a href="https://dev.to/adewgn" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="adewgn"/></a>
 <a href="https://stackoverflow.com/users/adewgn" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="adewgn"  /></a>
 <a href="https://medium.com/@adewgn" target="blank"><img align="center" src="img/medium.png" width="50px" alt="@adewgn"/></a>
 <a href="https://codepen.io/adewgn" target="blank"><img align="center" src="https://skillicons.dev/icons?i=codepen" alt="adewgn"/></a>
-
+<!--  
 </p>
-
+<!--  
 <br>
-
+<!--  
 <h4>YOU CAN ALSO FIND ME ON:</h4>    
 <p align="center">
 <a href="https://kaggle.com/adewgn" target="blank"><img align="center" src="img/kaggle.png" width="50px" alt="adewgn"/></a>
@@ -50,14 +51,15 @@
 <a href="https://www.leetcode.com/adewgn" target="blank"><img align="center" width="50px" src="img/leetcode.webp" alt="adewgn"/></a>
 <a href="https://www.topcoder.com/members/adewgn" target="blank"><img align="center" src="img/topcoder.webp" width="50px" alt="adewgn"/></a>
 </p>
-
+<!--  
 </details>
-
+-->
+<!--  
 ---
-
+<!--  
 <details>
 <summary><h2>📡 TECH STACK</h2></summary>
-
+<!--  
 <h3>👨‍💻 Programming and Markup Languages</h3>
 <p align="center">
   <a>
@@ -65,7 +67,7 @@
   </a>
 </p>
 
-
+<!--  
 <h3>👨‍💻 Database and Cloud Hosting</h3>
 <p align="center">
   <a>
