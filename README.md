@@ -36,11 +36,11 @@
 <a href="https://linkedin.com/in/adewgn" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="adewgn"/></a>
 <!--<a href="https://dev.to/adewgn" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="adewgn"/></a>-->
 <a href="https://stackoverflow.com/users/adewgn" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="adewgn"  /></a>
-<a href="https://medium.com/@adewgn" target="blank"><img align="center" src="img/medium.png" width="50px" alt="@adewgn"/></a>
+<!--<a href="https://medium.com/@adewgn" target="blank"><img align="center" src="img/medium.png" width="50px" alt="@adewgn"/></a>
 <a href="https://codepen.io/adewgn" target="blank"><img align="center" src="https://skillicons.dev/icons?i=codepen" alt="adewgn"/></a>
 
 </p>
-<!--
+
 <br>
 
 <h4>YOU CAN ALSO FIND ME ON:</h4>    
