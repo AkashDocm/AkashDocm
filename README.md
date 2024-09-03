@@ -7,13 +7,6 @@
 
 # <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=60&pause=400&vCenter=true&width=1000&color=0096FF&lines=HI,+I+AM+AKASH+DEWANGAN+:];WELCOME+TO+MY+GITHUB+ACCOUNT+>_<;)<p>
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adewgn" alt="adewgn" /></a> </p>-->
-
-
-
-
-<!--<p align="left"> <a href="https://twitter.com/adewgn" target="blank"><img src="https://img.shields.io/twitter/follow/adewgn?logo=twitter&style=for-the-badge" alt="adewgn" /></a> </p>-->
-
 <details open>
 <summary><h2>👨‍💻 ABOUT ME</h2></summary>
 
@@ -29,27 +22,15 @@
  
 <br>
   
-<h4> CONNECT WITH ME :
+<h4>CONNECT WITH ME ON:
 <br>
 <br>
 <p align="center">
-<a href="https://twitter.com/AkashYaml" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="adewgn"/></a>
-<a href="https://linkedin.com/in/akashyaml" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="adewgn"/></a>
-<!--<a href="https://dev.to/adewgn" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="adewgn"/></a>-->
-<a href="https://stackoverflow.com/users/akashyaml" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="adewgn"  /></a>
-<a href="https://medium.com/@akashyaml" target="blank"><img align="center" src="img/medium.png" width="50px" alt="@adewgn"/></a>
-<a href="https://codepen.io/akashyaml" target="blank"><img align="center" src="https://skillicons.dev/icons?i=codepen" alt="adewgn"/></a>
+<a href="https://twitter.com/AkashYaml" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="AkashYaml"/></a>
+<a href="https://linkedin.com/in/akashyaml" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="AkashYaml"/></a>
+<a href="https://codeforces.com/profile/akashyaml" target="_blank"><img align="center" src="img/codeforce.png" width="50px" alt="AkashYaml"/></a>
+<a href="https://www.leetcode.com/akashyaml" target="_blank"><img align="center" width="50px" src="img/leetcode.webp" alt="AkashYaml"/></a>
  
-</p>
- 
-<br>
-
-<h4>YOU CAN ALSO FIND ME ON:</h4>    
-<p align="center">
-<a href="https://kaggle.com/akashyaml" target="blank"><img align="center" src="img/kaggle.png" width="50px" alt="adewgn"/></a>
-<a href="https://codeforces.com/profile/akashyaml" target="blank"><img align="center" src="img/codeforce.png" width="50px" alt="adewgn"/></a>
-<a href="https://www.leetcode.com/akashyaml" target="blank"><img align="center" width="50px" src="img/leetcode.webp" alt="adewgn"/></a>
-<a href="https://www.topcoder.com/members/akashyaml" target="blank"><img align="center" src="img/topcoder.webp" width="50px" alt="adewgn"/></a>
 </p>
   
 </details>
@@ -105,7 +86,6 @@
 
   <h3>💻 GitHub Profile Stats</h3>
 
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
 
   <p align="center">
     <a href="#"><img alt="AkashYaml's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AkashYaml&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=020214&title_color=d6e7ff&icon_color=2874A6" height="150px"/></a>
