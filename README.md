@@ -1,4 +1,4 @@
-[<img src="coffee.gif" width="100%">]()
+[<img src="akira.gif" width="100%">]()
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -21,10 +21,10 @@
  
 
 <p align="center">
-      <a href="https://github.com/adewgn?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/adewgn?color=ff4721&labelColor=f2411c&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/AkashYaml?tab=followers">
+         <img alt="AkashYaml's followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AkashYaml?color=ff4721&labelColor=f2411c&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/adewgn?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/adewgn?color=236ad3&style=for-the-badge&labelColor=1155ba&logo=star"/></a>
+         <img alt="AkashYaml's total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AkashYaml?color=236ad3&style=for-the-badge&labelColor=1155ba&logo=star"/></a>
    </p>
  
 <br>
@@ -33,12 +33,12 @@
 <br>
 <br>
 <p align="center">
-<a href="https://twitter.com/AkashDewgn" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="adewgn"/></a>
-<a href="https://linkedin.com/in/adewgn" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="adewgn"/></a>
+<a href="https://twitter.com/AkashYaml" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="adewgn"/></a>
+<a href="https://linkedin.com/in/akashyaml" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="adewgn"/></a>
 <!--<a href="https://dev.to/adewgn" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="adewgn"/></a>-->
-<a href="https://stackoverflow.com/users/adewgn" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="adewgn"  /></a>
-<a href="https://medium.com/@adewgn" target="blank"><img align="center" src="img/medium.png" width="50px" alt="@adewgn"/></a>
-<a href="https://codepen.io/adewgn" target="blank"><img align="center" src="https://skillicons.dev/icons?i=codepen" alt="adewgn"/></a>
+<a href="https://stackoverflow.com/users/akashyaml" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="adewgn"  /></a>
+<a href="https://medium.com/@akashyaml" target="blank"><img align="center" src="img/medium.png" width="50px" alt="@adewgn"/></a>
+<a href="https://codepen.io/akashyaml" target="blank"><img align="center" src="https://skillicons.dev/icons?i=codepen" alt="adewgn"/></a>
  
 </p>
  
@@ -46,10 +46,10 @@
 
 <h4>YOU CAN ALSO FIND ME ON:</h4>    
 <p align="center">
-<a href="https://kaggle.com/adewgn" target="blank"><img align="center" src="img/kaggle.png" width="50px" alt="adewgn"/></a>
-<a href="https://codeforces.com/profile/adewgn" target="blank"><img align="center" src="img/codeforce.png" width="50px" alt="adewgn"/></a>
-<a href="https://www.leetcode.com/adewgn" target="blank"><img align="center" width="50px" src="img/leetcode.webp" alt="adewgn"/></a>
-<a href="https://www.topcoder.com/members/adewgn" target="blank"><img align="center" src="img/topcoder.webp" width="50px" alt="adewgn"/></a>
+<a href="https://kaggle.com/akashyaml" target="blank"><img align="center" src="img/kaggle.png" width="50px" alt="adewgn"/></a>
+<a href="https://codeforces.com/profile/akashyaml" target="blank"><img align="center" src="img/codeforce.png" width="50px" alt="adewgn"/></a>
+<a href="https://www.leetcode.com/akashyaml" target="blank"><img align="center" width="50px" src="img/leetcode.webp" alt="adewgn"/></a>
+<a href="https://www.topcoder.com/members/akashyaml" target="blank"><img align="center" src="img/topcoder.webp" width="50px" alt="adewgn"/></a>
 </p>
   
 </details>
@@ -100,7 +100,7 @@
   <h3 align="left">🌊 Streak Stats</h3>
 
   <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adewgn&theme=holi-theme&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AkashYaml&theme=holi-theme&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&" alt="AkashYaml's GitHub Streak" /></a>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
@@ -108,8 +108,8 @@
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
   <p align="center">
-    <a href="#"><img alt="adewgn's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=adewgn&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=020214&title_color=d6e7ff&icon_color=2874A6" height="150px"/></a>
-    <a href="#"><img alt="adewgn's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=adewgn&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=020214&title_color=d6e7ff&icon_color=2ECC71&hide=Jupyter%20Notebook,Roff" height="150px"/></a>
+    <a href="#"><img alt="AkashYaml's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AkashYaml&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=020214&title_color=d6e7ff&icon_color=2874A6" height="150px"/></a>
+    <a href="#"><img alt="AkashYaml's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AkashYaml&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=020214&title_color=d6e7ff&icon_color=2ECC71&hide=Jupyter%20Notebook,Roff" height="150px"/></a>
   </p>
 
   <br/>
@@ -118,7 +118,7 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br>
   <br>
-    <a href="#"><img alt="adewgn's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=adewgn&bg_color=020214&color=d6e7ff&line=d6e7ff&point=FFFFFF&hide_border=true" /></a>
+    <a href="#"><img alt="AkashYaml's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AkashYaml&bg_color=020214&color=d6e7ff&line=d6e7ff&point=FFFFFF&hide_border=true" /></a>
   </p>
 
 </details>
