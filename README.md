@@ -28,8 +28,10 @@
 <p align="center">
 <a href="https://twitter.com/AkashYaml" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="AkashYaml"/></a>
 <a href="https://linkedin.com/in/akashyaml" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="AkashYaml"/></a>
+<a href="https://medium.com/@akashyaml" target="blank"><img align="center" src="img/medium.png" width="50px" alt="@akashyaml"/></a>
 <a href="https://codeforces.com/profile/akashyaml" target="_blank"><img align="center" src="img/codeforce.png" width="50px" alt="AkashYaml"/></a>
 <a href="https://www.leetcode.com/akashyaml" target="_blank"><img align="center" width="50px" src="img/leetcode.webp" alt="AkashYaml"/></a>
+<a href="https://www.topcoder.com/members/akashyaml" target="blank"><img align="center" src="img/topcoder.webp" width="50px" alt="akashyaml"/></a>
  
 </p>
   
