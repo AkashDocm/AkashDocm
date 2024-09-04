@@ -26,7 +26,7 @@
 <br>
 <br>
 <p align="center">
-<a href="https://twitter.com/akashdocm" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="akashdocm"/></a>
+<a href="https://twitter.com/akashxlsx" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="akashxlsx"/></a>
 <a href="https://linkedin.com/in/akashdocm" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="akashdocm"/></a>
 <a href="https://medium.com/@akashdocm" target="blank"><img align="center" src="img/medium.png" width="50px" alt="@akashdocm"/></a>
 <a href="https://codeforces.com/profile/akashdocm" target="_blank"><img align="center" src="img/codeforce.png" width="50px" alt="akashdocm"/></a>
