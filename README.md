@@ -14,10 +14,10 @@
  
 
 <p align="center">
-      <a href="https://github.com/AkashYaml?tab=followers">
-         <img alt="AkashYaml's followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AkashYaml?color=ff4721&labelColor=f2411c&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/akashdocm?tab=followers">
+         <img alt="akashdocm's followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/akashdocm?color=ff4721&labelColor=f2411c&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/adewgn?tab=repositories&sort=stargazers">
-         <img alt="AkashYaml's total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AkashYaml?color=236ad3&style=for-the-badge&labelColor=1155ba&logo=star"/></a>
+         <img alt="akashdocm's total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/akashdocm?color=236ad3&style=for-the-badge&labelColor=1155ba&logo=star"/></a>
    </p>
  
 <br>
@@ -26,12 +26,12 @@
 <br>
 <br>
 <p align="center">
-<a href="https://twitter.com/AkashYaml" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="AkashYaml"/></a>
-<a href="https://linkedin.com/in/akashyaml" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="AkashYaml"/></a>
-<a href="https://medium.com/@akashyaml" target="blank"><img align="center" src="img/medium.png" width="50px" alt="@akashyaml"/></a>
-<a href="https://codeforces.com/profile/akashyaml" target="_blank"><img align="center" src="img/codeforce.png" width="50px" alt="AkashYaml"/></a>
-<a href="https://www.leetcode.com/akashyaml" target="_blank"><img align="center" width="50px" src="img/leetcode.webp" alt="AkashYaml"/></a>
-<a href="https://www.topcoder.com/members/akashyaml" target="blank"><img align="center" src="img/topcoder.webp" width="50px" alt="akashyaml"/></a>
+<a href="https://twitter.com/akashdocm" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="akashdocm"/></a>
+<a href="https://linkedin.com/in/akashdocm" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="akashdocm"/></a>
+<a href="https://medium.com/@akashdocm" target="blank"><img align="center" src="img/medium.png" width="50px" alt="@akashdocm"/></a>
+<a href="https://codeforces.com/profile/akashdocm" target="_blank"><img align="center" src="img/codeforce.png" width="50px" alt="akashdocm"/></a>
+<a href="https://www.leetcode.com/akashdocm" target="_blank"><img align="center" width="50px" src="img/leetcode.webp" alt="akashdocm"/></a>
+<a href="https://www.topcoder.com/members/akashdocm" target="blank"><img align="center" src="img/topcoder.webp" width="50px" alt="akashdocm"/></a>
  
 </p>
   
@@ -83,15 +83,15 @@
   <h3 align="left">🌊 Streak Stats</h3>
 
   <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AkashYaml&theme=holi-theme&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&" alt="AkashYaml's GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=akashdocm&theme=holi-theme&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&" alt="akashdocm's GitHub Streak" /></a>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
 
 
   <p align="center">
-    <a href="#"><img alt="AkashYaml's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AkashYaml&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=020214&title_color=d6e7ff&icon_color=2874A6" height="150px"/></a>
-    <a href="#"><img alt="AkashYaml's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AkashYaml&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=020214&title_color=d6e7ff&icon_color=2ECC71&hide=Jupyter%20Notebook,Roff" height="150px"/></a>
+    <a href="#"><img alt="akashdocm's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=akashdocm&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=020214&title_color=d6e7ff&icon_color=2874A6" height="150px"/></a>
+    <a href="#"><img alt="akashdocm's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=akashdocm&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=020214&title_color=d6e7ff&icon_color=2ECC71&hide=Jupyter%20Notebook,Roff" height="150px"/></a>
   </p>
 
   <br/>
@@ -100,7 +100,7 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br>
   <br>
-    <a href="#"><img alt="AkashYaml's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AkashYaml&bg_color=020214&color=d6e7ff&line=d6e7ff&point=FFFFFF&hide_border=true" /></a>
+    <a href="#"><img alt="akashdocm's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=akashdocm&bg_color=020214&color=d6e7ff&line=d6e7ff&point=FFFFFF&hide_border=true" /></a>
   </p>
 
 </details>
