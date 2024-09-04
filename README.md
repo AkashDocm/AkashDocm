@@ -16,7 +16,7 @@
 <p align="center">
       <a href="https://github.com/akashdocm?tab=followers">
          <img alt="akashdocm's followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/akashdocm?color=ff4721&labelColor=f2411c&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/adewgn?tab=repositories&sort=stargazers">
+      <a href="https://github.com/akashdocm?tab=repositories&sort=stargazers">
          <img alt="akashdocm's total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/akashdocm?color=236ad3&style=for-the-badge&labelColor=1155ba&logo=star"/></a>
    </p>
  
