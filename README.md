@@ -7,7 +7,9 @@
 
 ### <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=60&pause=400&vCenter=true&width=750&color=3bd354&lines=HI,+I+AM+AKASH+DEWANGAN+:];WELCOME+TO+MY+GITHUB+ACCOUNT+>_<;)<p>&nbsp;
 
-# 👺 AkashDocm
+
+<details open>
+<summary><h1>👺 AkashDocm</h1></summary>&nbsp;
 
 **`Data Scientist/Developer/Competitive Programmer`**
 
@@ -82,9 +84,9 @@
   <br/>
 
   <p align="center">
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AkashDocm&theme=github-dark&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="130px"/></a>&nbsp;
-    <a href="#"><img alt="akashdocm's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=akashdocm&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=FFFFFF&icon_color=1b68e3&text_color=3bd354&border_color=3bd354" height="130px"/></a>&nbsp;
-    <a href="#"><img alt="akashdocm's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=akashdocm&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&border_color=3bd354&title_color=FFFFFF&icon_color=1b68e3&text_color=3bd354&hide=Jupyter%20Notebook,Roff" height="130px"/></a>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AkashDocm&theme=github-dark&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="42.4%"/></a>&nbsp;
+    <a href="#"><img alt="akashdocm's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=akashdocm&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=FFFFFF&icon_color=1b68e3&text_color=3bd354&border_color=3bd354" width="40%"/></a>&nbsp;
+    <!--<a href="#"><img alt="akashdocm's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=akashdocm&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&border_color=3bd354&title_color=FFFFFF&icon_color=1b68e3&text_color=3bd354&hide=Jupyter%20Notebook,Roff" height="130px"/></a>-->
   </p>
 
   <br/>
