@@ -11,7 +11,7 @@
 <details open>
 <summary><h1>👺 AkashDocm</h1></summary>&nbsp;
 
-**`Data Scientist/Developer/Competitive Programmer`**
+**`Data Scientist/Developer/Competitive Programmer`** <img src="https://komarev.com/ghpvc/?username=akashdocm&label=Profile%20views&color=0e75b6&style=flat" alt="akashdocm" /> 
 
 <p align="justify" >Data Science student with a passion for coding, competitive programming, and avoiding the dreaded 'out of memory' error. I'm a full-stack developer who's currently trying to convince my neural network that it's not actually sentient (yet). Beyond my technical skills, I'm a dedicated open-source contributor and a competitive programmer who's always on the lookout for a challenging problem. Let's connect and build something awesome together – or at least something that doesn't crash.</p> &nbsp;
 
@@ -85,7 +85,7 @@
 
   <p align="center">
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AkashDocm&theme=github-dark&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="160px"/></a>&nbsp;
-    <a href="#"><img alt="akashdocm's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=akashdocm&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=FFFFFF&icon_color=1b68e3&text_color=3bd354&border_color=3bd354"  height="160px"/></a>&nbsp;
+    <a href="#"><img alt="akashdocm's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=akashdocm&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=3bd354&icon_color=1b68e3&text_color=FFFFFF&border_color=3bd354"  height="160px"/></a>&nbsp;
     <!--<a href="#"><img alt="akashdocm's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=akashdocm&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&border_color=3bd354&title_color=FFFFFF&icon_color=1b68e3&text_color=3bd354&hide=Jupyter%20Notebook,Roff" height="130px"/></a>-->
   </p>
 
