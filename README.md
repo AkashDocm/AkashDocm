@@ -21,7 +21,7 @@
    </p>&nbsp;
  
   
-<h4>YOUI CAN ALSO FIND ME ON:
+<h4>YOU CAN ALSO FIND ME ON:
 <br>
 <br>
 <p align="center">
@@ -82,9 +82,9 @@
   <br/>
 
   <p align="center">
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AkashDocm&theme=github-dark&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="140px"/></a>&nbsp;
-    <a href="#"><img alt="akashdocm's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=akashdocm&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=FFFFFF&icon_color=1b68e3&text_color=3bd354&border_color=3bd354" height="140px"/></a>&nbsp;
-    <a href="#"><img alt="akashdocm's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=akashdocm&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&border_color=3bd354&title_color=FFFFFF&icon_color=1b68e3&text_color=3bd354&hide=Jupyter%20Notebook,Roff" height="140px"/></a>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AkashDocm&theme=github-dark&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="130px"/></a>&nbsp;
+    <a href="#"><img alt="akashdocm's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=akashdocm&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=FFFFFF&icon_color=1b68e3&text_color=3bd354&border_color=3bd354" height="130px"/></a>&nbsp;
+    <a href="#"><img alt="akashdocm's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=akashdocm&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&border_color=3bd354&title_color=FFFFFF&icon_color=1b68e3&text_color=3bd354&hide=Jupyter%20Notebook,Roff" height="130px"/></a>
   </p>
 
   <br/>
