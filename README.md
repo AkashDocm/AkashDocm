@@ -24,7 +24,7 @@
    </p>&nbsp;
  
   
-<h4>You can also find me on:
+<h3>You can also find me on:</h3>
 <br>
 <br>
 <p align="center">
