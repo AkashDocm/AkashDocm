@@ -26,7 +26,6 @@
   
 <h3>You can also find me on:</h3>
 <br>
-<br>
 <p align="center">
 <a href="https://x.com/akashzip" target="_blank"><img align="center" src="logo/x.svg" width="50px" alt="akashzip"/></a>&nbsp;
 <a href="https://linkedin.com/in/akashdocm" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="akashdocm"/></a>&nbsp;
