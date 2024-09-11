@@ -28,9 +28,9 @@
 <br>
 <br>
 <p align="center">
-<a href="https://x.com/akashzip" target="_blank"><img align="center" src="logo/x.svg" alt="akashzip"/></a>&nbsp;
+<a href="https://x.com/akashzip" target="_blank"><img align="center" src="logo/x.svg" width="50px" alt="akashzip"/></a>&nbsp;
 <a href="https://linkedin.com/in/akashdocm" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="akashdocm"/></a>&nbsp;
-<a href="https://codeforces.com/profile/akashdocm" target="_blank"><img align="center" src="logo/codeforce.svg" width="50px" alt="akashdocm"/></a>&nbsp;
+<a href="https://codeforces.com/profile/akashdocm" target="_blank"><img align="center" src="logo/codeforces.svg" width="50px" alt="akashdocm"/></a>&nbsp;
 <a href="https://www.leetcode.com/akashdocm" target="_blank"><img align="center" width="50px" src="logo/leetcode.svg" alt="akashdocm"/></a>&nbsp;
 <a href="https://www.codechef.com/users/akashdocm" target="_blank"><img align="center" width="50px" src="logo/codechef.svg" alt="akashdocm"/></a>
 </p>
