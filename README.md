@@ -7,11 +7,12 @@
 
 ### <p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=60&pause=400&vCenter=true&width=750&color=3bd354&lines=HI,+I+AM+AKASH+DEWANGAN+:];WELCOME+TO+MY+GITHUB+ACCOUNT+>_<;)<p>
 
+&nbsp;
 
 <details open>
 <summary><h1>👺 AkashDocm</h1></summary>&nbsp;
 
-**`Data Scientist/Developer/Competitive Programmer`** <img src="https://komarev.com/ghpvc/?username=akashdocm&label=Profile%20views&color=0e75b6&style=flat" alt="akashdocm" /> 
+**`Data Scientist/Developer/Competitive Programmer`**
 
 <p align="justify" >Data Science student with a passion for coding, competitive programming, and avoiding the dreaded 'out of memory' error. I'm a full-stack developer who's currently trying to convince my neural network that it's not actually sentient (yet). Beyond my technical skills, I'm a dedicated open-source contributor and a competitive programmer who's always on the lookout for a challenging problem. Let's connect and build something awesome together – or at least something that doesn't crash.</p> &nbsp;
 
@@ -23,51 +24,49 @@
    </p>&nbsp;
  
   
-<h4>YOU CAN ALSO FIND ME ON:
+<h4>You can also find me on:
 <br>
 <br>
 <p align="center">
-<a href="https://twitter.com/akashzip" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="akashzip"/></a>&nbsp;
+<a href="https://x.com/akashzip" target="_blank"><img align="center" src="logo/x.svg" alt="akashzip"/></a>&nbsp;
 <a href="https://linkedin.com/in/akashdocm" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="akashdocm"/></a>&nbsp;
-<!--<a href="https://medium.com/@akashdocm" target="blank"><img align="center" src="logo/medium.png" width="50px" alt="@akashdocm"/></a>&nbsp;-->
-<a href="https://codeforces.com/profile/akashdocm" target="_blank"><img align="center" src="logo/codeforce.png" width="50px" alt="akashdocm"/></a>&nbsp;
-<a href="https://www.leetcode.com/akashdocm" target="_blank"><img align="center" width="50px" src="logo/leetcode.webp" alt="akashdocm"/></a>&nbsp;
-<a href="https://www.topcoder.com/members/akashdocm" target="blank"><img align="center" src="logo/topcoder.webp" width="50px" alt="akashdocm"/></a>
- 
+<a href="https://codeforces.com/profile/akashdocm" target="_blank"><img align="center" src="logo/codeforce.svg" width="50px" alt="akashdocm"/></a>&nbsp;
+<a href="https://www.leetcode.com/akashdocm" target="_blank"><img align="center" width="50px" src="logo/leetcode.svg" alt="akashdocm"/></a>&nbsp;
+<a href="https://www.codechef.com/users/akashdocm" target="_blank"><img align="center" width="50px" src="logo/codechef.svg" alt="akashdocm"/></a>
 </p>
   
 </details>
 
- 
+--- 
 
  
 <details>
 <summary><h1 style="font-size: 4.25em; margin-bottom: 0.5em;">📡 Tech Stack</h1></summary>
 
-<h3>👨‍💻 Programming and Markup Languages</h3>
+<h3>👨‍💻 Programming and Markup Languages:</h3>&nbsp;
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,ts,go,latex,html,css,mysql&perline=10" />
   </a>
 </p>
 
- 
-<h3>👨‍💻 Database and Cloud Hosting</h3>
+&nbsp;
+<h3>🧳 Database and Cloud Hosting:</h3>&nbsp;
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,azure,docker,gcp,kubernetes,appwrite,firebase&perline=10" />
   </a>
 </p>
 
-
-<h3>🧰 Frameworks and Libraries</h3>
+&nbsp;
+<h3>🧰 Frameworks and Libraries:</h3>&nbsp;
  <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=nodejs,nextjs,express,angular,vue,bootstrap,jquery,react,tailwind,threejs,django,dotnet,wordpress,tensorflow,pytorch,dart,flutter,kotlin&perline=10" />
   </a>
 </p>
-
- <h3>💻 Software and Tools</h3>
+&nbsp;
+ <h3>💻 Software and Tools:</h3>&nbsp;
  <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=arduino,ps,powershell,autocad,blender,git,github,gitlab,githubactions,figma,linux,matlab,postman&perline=10" />
@@ -75,7 +74,7 @@
 </p>
 </details>
 
-
+---
 
 <details>
 <summary><h1>📊 Github Stats</h1></summary>
@@ -99,6 +98,8 @@
   </p>
 
 </details>
+
+---
 
 &nbsp;
 
