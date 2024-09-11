@@ -22,17 +22,16 @@
       <a href="https://github.com/akashdocm?tab=repositories&sort=stargazers">
          <img alt="akashdocm's total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/akashdocm?color=236ad3&style=for-the-badge&labelColor=1155ba&logo=star"/></a>
    </p>&nbsp;
-   
-<!--
  
 <h3>You can also find me on:</h3>
 <br>
 <p align="center">
-<a href="https://x.com/--" target="_blank"><img align="center" src="logo/x.svg" width="50px" alt="--"/></a>&nbsp;
-<a href="https://linkedin.com/in/----" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="----"/></a>&nbsp;
+<a href="https://x.com/akashzip" target="_blank"><img align="center" src="logo/x.svg" width="50px" alt="akashzip"/></a>&nbsp;
+<a href="https://linkedin.com/in/akashdocm" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="akashdocm"/></a>&nbsp;
+<a href="https://codeforces.com/profile/akashdocm" target="_blank"><img align="center" src="logo/codeforces.svg" width="50px" alt="akashdocm"/></a>&nbsp;
+<a href="https://www.leetcode.com/akashdocm" target="_blank"><img align="center" width="50px" src="logo/leetcode.svg" alt="akashdocm"/></a>&nbsp;
+<a href="https://www.codechef.com/users/akashdocm" target="_blank"><img align="center" width="50px" src="logo/codechef.svg" alt="akashdocm"/></a>&nbsp;
 </p>
-
--->
   
 </details>
 
