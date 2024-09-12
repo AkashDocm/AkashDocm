@@ -10,27 +10,27 @@
 &nbsp;
 
 <details open>
-<summary><h1>👺 AkashDocm</h1></summary>&nbsp;
+<summary><h1>👺 akashdewgn</h1></summary>&nbsp;
 
 **`Data Scientist/Developer/Competitive Programmer`**
 
 <p align="justify" >Data Science student with a passion for coding, competitive programming, and avoiding the dreaded 'out of memory' error. I'm a full-stack developer who's currently trying to convince my neural network that it's not actually sentient (yet). Beyond my technical skills, I'm a dedicated open-source contributor and a competitive programmer who's always on the lookout for a challenging problem. Let's connect and build something awesome together – or at least something that doesn't crash.</p> &nbsp;
 
 <p align="center">
-      <a href="https://github.com/akashdocm?tab=followers">
-         <img alt="akashdocm's followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/akashdocm?color=ff4721&labelColor=f2411c&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/akashdocm?tab=repositories&sort=stargazers">
-         <img alt="akashdocm's total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/akashdocm?color=236ad3&style=for-the-badge&labelColor=1155ba&logo=star"/></a>
+      <a href="https://github.com/akashdewgn?tab=followers">
+         <img alt="akashdewgn's followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/akashdewgn?color=ff4721&labelColor=f2411c&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/akashdewgn?tab=repositories&sort=stargazers">
+         <img alt="akashdewgn's total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/akashdewgn?color=236ad3&style=for-the-badge&labelColor=1155ba&logo=star"/></a>
    </p>&nbsp;
  
 <h3>You can also find me on:</h3>
 <br>
 <p align="center">
 <a href="https://x.com/akashzip" target="_blank"><img align="center" src="logo/x.svg" width="50px" alt="akashzip"/></a>&nbsp;
-<a href="https://linkedin.com/in/akashdocm" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="akashdocm"/></a>&nbsp;
-<a href="https://codeforces.com/profile/akashdocm" target="_blank"><img align="center" src="logo/codeforces.svg" width="50px" alt="akashdocm"/></a>&nbsp;
-<a href="https://www.leetcode.com/akashdocm" target="_blank"><img align="center" width="50px" src="logo/leetcode.svg" alt="akashdocm"/></a>&nbsp;
-<a href="https://www.codechef.com/users/akashdocm" target="_blank"><img align="center" width="50px" src="logo/codechef.svg" alt="akashdocm"/></a>&nbsp;
+<a href="https://linkedin.com/in/akashdewgn" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="akashdewgn"/></a>&nbsp;
+<a href="https://codeforces.com/profile/akashscripts" target="_blank"><img align="center" src="logo/codeforces.svg" width="50px" alt="akashscripts"/></a>&nbsp;
+<a href="https://www.leetcode.com/akashscripts" target="_blank"><img align="center" width="50px" src="logo/leetcode.svg" alt="akashscripts"/></a>&nbsp;
+<a href="https://www.codechef.com/users/akashscripts" target="_blank"><img align="center" width="50px" src="logo/codechef.svg" alt="akashscripts"/></a>&nbsp;
 </p>
   
 </details>
@@ -81,9 +81,9 @@
   <br/>
 
   <p align="center">
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AkashDocm&theme=github-dark&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="160px"/></a>&nbsp;
-    <a href="#"><img alt="akashdocm's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=akashdocm&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=3bd354&icon_color=1b68e3&text_color=FFFFFF&border_color=3bd354"  height="160px"/></a>&nbsp;
-    <!--<a href="#"><img alt="akashdocm's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=akashdocm&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&border_color=3bd354&title_color=FFFFFF&icon_color=1b68e3&text_color=3bd354&hide=Jupyter%20Notebook,Roff" height="130px"/></a>-->
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=akashdewgn&theme=github-dark&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="160px"/></a>&nbsp;
+    <a href="#"><img alt="akashdewgn's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=akashdewgn&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=3bd354&icon_color=1b68e3&text_color=FFFFFF&border_color=3bd354"  height="160px"/></a>&nbsp;
+    <!--<a href="#"><img alt="akashdewgn's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=akashdewgn&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&border_color=3bd354&title_color=FFFFFF&icon_color=1b68e3&text_color=3bd354&hide=Jupyter%20Notebook,Roff" height="130px"/></a>-->
   </p>
 
   <br/>
@@ -92,7 +92,7 @@
   <b>NOTE:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br>
   <br>
-    <a href="#"><img alt="akashdocm's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=akashdocm&hide_border=false&bg_color=0d1117&border_color=3bd354&color=FFFFFF&line=3bd354&point=1b68e3" /></a>
+    <a href="#"><img alt="akashdewgn's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=akashdewgn&hide_border=false&bg_color=0d1117&border_color=3bd354&color=FFFFFF&line=3bd354&point=1b68e3" /></a>
   </p>
 
 </details>
