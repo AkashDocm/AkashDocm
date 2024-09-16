@@ -28,9 +28,9 @@
 <p align="center">
 <a href="https://x.com/akashzip" target="_blank"><img align="center" src="logo/x.svg" width="50px" alt="akashzip"/></a>&nbsp;
 <a href="https://linkedin.com/in/akashdewgn" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="akashdewgn"/></a>&nbsp;
-<a href="https://codeforces.com/profile/akashscripts" target="_blank"><img align="center" src="logo/codeforces.svg" width="50px" alt="akashscripts"/></a>&nbsp;
-<a href="https://www.leetcode.com/akashscripts" target="_blank"><img align="center" width="50px" src="logo/leetcode.svg" alt="akashscripts"/></a>&nbsp;
-<a href="https://www.codechef.com/users/akashscripts" target="_blank"><img align="center" width="50px" src="logo/codechef.svg" alt="akashscripts"/></a>&nbsp;
+<a href="https://codeforces.com/profile/GridGobbler" target="_blank"><img align="center" src="logo/codeforces.svg" width="50px" alt="GridGobbler"/></a>&nbsp;
+<a href="https://www.leetcode.com/GridGobbler" target="_blank"><img align="center" width="50px" src="logo/leetcode.svg" alt="GridGobbler"/></a>&nbsp;
+<a href="https://www.codechef.com/users/gridgobbler" target="_blank"><img align="center" width="50px" src="logo/codechef.svg" alt="gridgobbler"/></a>&nbsp;
 </p>
   
 </details>
