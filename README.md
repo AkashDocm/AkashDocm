@@ -10,7 +10,7 @@
 &nbsp;
 
 <details open>
-<summary><h1>👺 Akashly </h1></summary>&nbsp;
+<summary><h1>👺 akashly </h1></summary>&nbsp;
 
 **`Data Scientist/Developer/Competitive Programmer`**
 
